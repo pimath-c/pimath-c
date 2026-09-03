@@ -1,16 +1,17 @@
-## Hi there 👋
+whoami:
+  name: Pedro Henrique Bilhalva Fogaça
+  alias: "Pi"
+  origin: 🇧🇷
+  based_in: Salt Lake City, UT
+  role: CS Student @ University of Utah (Kahlert School of Computing)
+  languages_spoken: [Portuguese (native), English (fluent), Spanish (conversational)]
 
-<!--
-**pimath-c/pimath-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+currently:
+  - learning: [game design, offensive security fundamentals]
+  - status: "beginner"
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+interests:
+  - gaming: [horror games, competitive FPS]
+  - cooking: "Brazilian food, iterative recipe development"
+  - fashion_critique: true
+  - football: true
