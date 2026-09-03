@@ -1,6 +1,4 @@
 whoami:
-
-- name: Pedro Henrique Bilhalva Fogaça
 - alias: "Pi"
 - origin: 🇧🇷
 - based_in: Salt Lake City, UT
